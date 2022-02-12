@@ -3,7 +3,7 @@
 
 ## Profiles
 
-- Gagan Bhatia: [@gagan3012](https://github.com/gagan3012)
+- Gagan Bhatia: [@gagan3012](https://github.com/gagan3012) 
 - Brian Ho: [@briantkho](https://github.com/briantkho)
 - Arya Subramanyam: [@arya23065](https://github.com/arya23065)
 - Dylan Lau: [@dylanlauzy](https://github.com/dylanlauzy)
